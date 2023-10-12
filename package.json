@@ -24,9 +24,6 @@
     "url": "https://github.com/digitalbazaar/bedrock-turnstile/issues"
   },
   "homepage": "https://github.com/digitalbazaar/bedrock-turnstile",
-  "peerDependencies": {
-    "@bedrock/core": "^6.0.0"
-  },
   "directories": {
     "lib": "./lib"
   },
@@ -35,5 +32,10 @@
     "eslint-config-digitalbazaar": "^4.2.0",
     "eslint-plugin-jsdoc": "^39.6.4",
     "eslint-plugin-unicorn": "^48.0.1"
+  },
+  "dependencies": {
+    "@bedrock/core": "^6.0.0",
+    "@bedrock/https-agent": "^4.0.0",
+    "@digitalbazaar/http-client": "^4.0.0"
   }
 }
