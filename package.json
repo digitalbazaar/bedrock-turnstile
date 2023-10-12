@@ -1,0 +1,39 @@
+{
+  "name": "@bedrock/turnstile",
+  "version": "0.0.1-0",
+  "type": "module",
+  "description": "Cloudflare Turnstile support for Bedrock applications",
+  "license": "SEE LICENSE IN LICENSE.md",
+  "main": "./lib/index.js",
+  "scripts": {
+    "lint": "eslint --ext .cjs,.js ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/digitalbazaar/bedrock-turnstile"
+  },
+  "keywords": [
+    "bedrock"
+  ],
+  "author": {
+    "name": "Digital Bazaar, Inc.",
+    "email": "support@digitalbazaar.com",
+    "url": "https://digitalbazaar.com/"
+  },
+  "bugs": {
+    "url": "https://github.com/digitalbazaar/bedrock-turnstile/issues"
+  },
+  "homepage": "https://github.com/digitalbazaar/bedrock-turnstile",
+  "peerDependencies": {
+    "@bedrock/core": "^6.0.0"
+  },
+  "directories": {
+    "lib": "./lib"
+  },
+  "devDependencies": {
+    "eslint": "^8.30.0",
+    "eslint-config-digitalbazaar": "^4.2.0",
+    "eslint-plugin-jsdoc": "^39.6.4",
+    "eslint-plugin-unicorn": "^48.0.1"
+  }
+}
