@@ -40,5 +40,8 @@
   "peerDependencies": {
     "@bedrock/core": "^6.0.0",
     "@bedrock/https-agent": "^4.0.0"
+  },
+  "engines": {
+    "node": ">=18"
   }
 }
