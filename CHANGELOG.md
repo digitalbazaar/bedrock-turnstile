@@ -1,6 +1,6 @@
 # bedrock-turnstile ChangeLog
 
-## 1.0.0 - 2023-xx-xx
+## 1.0.0 - 2023-10-16
 
 ### Changed
 - Initial version.
