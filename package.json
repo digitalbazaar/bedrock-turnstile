@@ -1,6 +1,6 @@
 {
   "name": "@bedrock/turnstile",
-  "version": "1.0.1",
+  "version": "1.0.2-0",
   "type": "module",
   "description": "Cloudflare Turnstile support for Bedrock applications",
   "license": "SEE LICENSE IN LICENSE.md",
