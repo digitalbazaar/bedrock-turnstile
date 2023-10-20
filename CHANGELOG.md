@@ -1,6 +1,6 @@
 # bedrock-turnstile ChangeLog
 
-## 1.0.1 - 2023-10-xx
+## 1.0.1 - 2023-10-20
 
 ### Fixed
 - Fix namespacing of `turnstile` config.
