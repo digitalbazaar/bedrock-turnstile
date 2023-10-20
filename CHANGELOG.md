@@ -1,9 +1,9 @@
 # bedrock-turnstile ChangeLog
 
-## 1.0.2 - 2023-10-xx
+## 1.0.2 - 2023-10-20
 
 ### Fixed
-- Log out response data from Turnstile.
+- Add debug logging of response data from Turnstile API.
 
 ## 1.0.1 - 2023-10-20
 
